@@ -11,7 +11,7 @@ else
 
 '''
 
-n = 17
+n = int(input("Ingrese su edad: "))
 
 if n < 18:
 
